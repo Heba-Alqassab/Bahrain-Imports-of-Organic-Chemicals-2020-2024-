@@ -2,8 +2,7 @@
 # Problem Statement
 Bahrain imports data demonstrate an increment of 13.2% in the import of organic chemicals from 2020 to 2024. Reflecting an increasing reliance on other countries, which may intersect Bahrain's Economic Vision 2030.
 # Dashboard
-<img width="1665" height="940" alt="image" src="https://github.com/user-attachments/assets/254b73e2-8050-48b4-96ce-c65611464fe3" />
-
+<img width="2591" height="1456" alt="image" src="https://github.com/user-attachments/assets/4da9961e-4e7a-4f81-a854-cf0b0983824e" />
 # Insights and Findings
 - Bahrain imported 342 different commodities and organic chemicals.
 - The top imported commodities.
